@@ -28,7 +28,15 @@ KPI's that are featured in the basic spreadsheet are generally used for reportin
 information such as Gini Coefficent, Human Development Index & GDP. These districts can also be used to map geographic
 visualuzations to better determine wealth gaps in areas of the city.
 
-After creating, filling-in and formatting the data, 
-  
+After creating, filling-in and formatting the data, I then proceeded to convert the numbers file into xlsx. The results
+are shown below:
+
+<img width="1064" height="568" alt="ACWIS_v1_Xlsx" src="https://github.com/user-attachments/assets/c27c4179-a5e5-4a22-b838-05a3ac7d6abf" />
+
+
+As you can see, there is a bit that was lost in translation and some editing/ cleaning needs to be done. futhermore, I've 
+added some higher end detailing and fomratting to futher enhance the spreadsheet.
+
+
 
   
