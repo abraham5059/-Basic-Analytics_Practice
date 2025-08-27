@@ -35,8 +35,15 @@ are shown below:
 
 
 As you can see, there is a bit that was lost in translation and some editing/ cleaning needs to be done. futhermore, I've 
-added some higher end detailing and fomratting to futher enhance the spreadsheet.
+added some higher end detailing and fomratting to futher enhance the spreadsheet. The following image feautres these
+translation corrections, appropriate cell formatting as well as spreadsheet enchancements;
 
+
+<img width="1137" height="568" alt="ACWIS_v2_Xlsx" src="https://github.com/user-attachments/assets/2599ece6-6f25-4129-8a7b-14b15384228c" />
+
+
+Next, the fixed spreadsheet can provide some data analyis insights by filtering and applying basic formulas by using
+the Microsoft Excel functions such as:
 
 
   
