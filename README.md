@@ -1,7 +1,7 @@
 # (Basic) Wealth Ineqiality Analytics
 ### A basic scope of an entry level data analysis and general practice regarding my technical computer/ program skills.
 
-#### The data being used is fictional and out of my own creattion about wealth inequlaity in a fictional city.
+#### The data being used is fictional and out of my own creation about wealth inequality in a fictional city.
 
 ### Synopsis : 
 The purpose of this basic/fictional wealth inequality data project is to utilize KPI's to determine which areas of the 
@@ -44,6 +44,15 @@ translation corrections, appropriate cell formatting as well as spreadsheet ench
 
 Next, the fixed spreadsheet can provide some data analyis insights by filtering and applying basic formulas by using
 the Microsoft Excel functions such as:
+
+- Highest district of inequality according to Gini Coef. :
+  <img width="1137" height="429" alt="Highest Inequality" src="https://github.com/user-attachments/assets/4c90694e-734a-4dde-9391-25910ca3cf05" />
+
+- Lowest district of inequality according to Gini Coef. :
+  <img width="1137" height="429" alt="Lowest Inequality" src="https://github.com/user-attachments/assets/ccd259e1-72e4-4318-9deb-4e47cd64169d" />
+
+
+
 
 
   
