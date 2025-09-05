@@ -94,7 +94,8 @@ Which results in the following XLOOKUP feauture in the spreasheet:
 
 After developing and applying light analysis/ reporting (Such as data filtering, excel formulations & conditional formatting)
 I then proceed towards the next step of the data analysis which is visualization. This helps visualize the data and lets 
-the data convey what the information is without bias. 
+the data convey what the information is without bias. Therefore, the data from Avalon City Weath Inequality 2025 table
+will be used to drive better business decisions to determine needs regarding wealth inequlaity in the city.
 
 
 
@@ -113,6 +114,7 @@ the data convey what the information is without bias.
 
 - 2nd, we then proceed with Tableau Public's visualization tools by using KPI's to determine the data's story and relative
   information we need to conduct a basic analysis in the form of a dashboard.
+
   
 
 
