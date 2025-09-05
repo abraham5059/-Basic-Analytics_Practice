@@ -13,9 +13,9 @@ converted to .xlsx for wider computer accessibility.
 
 ### Tools
 - Mac Numbers - Spreadsheet Development
-- Microsoft Excel - Data Conversion & data cleaning
-- Tableau - Data Visualization
+- Microsoft Excel - Data Conversion & Data cleaning
 - Microsoft Excel - Reporting
+- Tableau - Data Visualization & Dashboard
 - Mac Keynote - Presentation
 - Microsoft Excel - Presentaion & Analysis Conversion
 
@@ -28,6 +28,9 @@ KPI's that are featured in the basic spreadsheet are generally used for reportin
 information such as Gini Coefficent, Human Development Index & GDP. These districts can also be used to map geographic
 visualuzations to better determine wealth gaps in areas of the city.
 
+### Data Conversion & Data Cleaning:
+
+
 After creating, filling-in and formatting the data, I then proceeded to convert the numbers file into xlsx. The results
 are shown below:
 
@@ -35,14 +38,17 @@ are shown below:
 
 
 As you can see, there is a bit that was lost in translation and some editing/ cleaning needs to be done. futhermore, I've 
-added some higher end detailing and fomratting to futher enhance the spreadsheet. The following image feautres these
+added some higher end detailing and formatting to futher enhance the spreadsheet. The following image feautres these
 translation corrections, appropriate cell formatting as well as spreadsheet enchancements;
 
 
 <img width="1137" height="568" alt="ACWIS_v2_Xlsx" src="https://github.com/user-attachments/assets/2599ece6-6f25-4129-8a7b-14b15384228c" />
 
 
-Next, the fixed spreadsheet can provide some data analyis insights by filtering and applying basic formulas by using
+#### Reporting:
+
+
+Next,the cleaned spreadsheet can provide some reporting insights by filtering and applying basic formulas by using
 the Microsoft Excel functions such as:
 
 - featuring average counters for related metrics to measure analysis such as " Average GDP in ₳" , "Average Gini Coef."
@@ -84,10 +90,10 @@ Which results in the following XLOOKUP feauture in the spreasheet:
 
 
 
-### Spreadsheet Data Vizualization
+### Spreadsheet Data Vizualization & Dashboard
 
-After developing and applying light analysis (Such as data filtering, excel formulations & conditional formatting)
-I then poceed towards the next step of the data analysis which is visualisation. This helps visualize the data and lets 
+After developing and applying light analysis/ reporting (Such as data filtering, excel formulations & conditional formatting)
+I then proceed towards the next step of the data analysis which is visualization. This helps visualize the data and lets 
 the data convey what the information is without bias. 
 
 
@@ -106,7 +112,7 @@ the data convey what the information is without bias.
   <img width="1545" height="762" alt="Automatic Import into Tableau" src="https://github.com/user-attachments/assets/379815bc-27e7-4961-9639-f086e74c57a1" />
 
 - 2nd, we then proceed with Tableau Public's visualization tools by using KPI's to determine the data's story and relative
-  information we need to conduct a basic analysis.
+  information we need to conduct a basic analysis in the form of a dashboard.
   
 
 
