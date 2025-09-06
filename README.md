@@ -115,9 +115,41 @@ will be used to drive better business decisions to determine needs regarding wea
 - 2nd, we then proceed with Tableau Public's visualization tools by using KPI's to determine the data's story and relative
   information we need to conduct a basic analysis in the form of a dashboard.
 
+  *In this instance, I created a tree map visualization that depicts the Gini coef. (how unequal the distribution of wealth is
+  in a given economy) of each district within Avalon City. We want to highlight the areas that have the highest inequlaity
+  first so we can easy determine which districts need the most attention. I have labled each Gini Coef to their corresponding
+  Dtistrict and display them using colors that emphazise the disparity of wealth.*
+
+  <img width="1331" height="679" alt="Gini Coef  Treemap" src="https://github.com/user-attachments/assets/82f6a442-51f1-4eb0-8484-0a3046de2a82" />
+
+
+  *Next, I then created a bar chart to measure each district's level of human development index against each other. I ordered
+  each "bar" (district) in ascending order with coloration to dstinctly highlight the differences of HDI between each district
+  within the city.*
+
+  <img width="1331" height="679" alt="HDI chart" src="https://github.com/user-attachments/assets/1cc9ff91-7c3c-4f5b-870e-b51528a15dd3" />
+
+  *Then, I created a doughnut chart to visualize the direct proportion of people that live/ use governmental housing in each
+  district. I also featured percentages under each district's label to futher enchance the proportion of the doughnut chart.*
+
+  <img width="1331" height="679" alt="Gov Housing doughnut chart" src="https://github.com/user-attachments/assets/31f4cb3e-efcc-4281-ae32-6cb2f93897ac" />
   
 
+  - 3rd. the dashboard development
+  
+    *Lastly, I developed an interactive dashboard to really bring the data into life while aslo allowing the data to be used to
+  explore. This further drives more conclusions about the analyis from a easy to understand layout for stakeholders to interact,
+  visualize and draw research findings.*
 
+  <img width="1014" height="853" alt="Completed AC Wealth Dashboard" src="https://github.com/user-attachments/assets/dcb62d5c-9cc0-4afe-9a5c-73673f7cefaf" />
+
+
+
+  *To futher enchance the dshboard, I've implemented a search filter within the dashbaord to focus on specific districts. This
+  is a helpful feature that is built to provide specific data that a stakeholder has regarding specific districts within the
+  city to help deal with ineqality.*
+
+  <img width="1014" height="270" alt="Seach Filter in AC Inequality Dashboard" src="https://github.com/user-attachments/assets/d6ecb1f0-a524-49c1-bc77-77399b8d716b" />
 
 
   
