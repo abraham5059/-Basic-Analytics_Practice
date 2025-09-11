@@ -17,7 +17,7 @@ converted to .xlsx for wider computer accessibility.
 - Microsoft Excel - Reporting
 - Tableau - Data Visualization & Dashboard
 - Mac Keynote - Presentation
-- Microsoft Excel - Presentaion & Analysis Conversion
+- Microsoft Excel - Final Presentaion & Analysis
 
 ### Spreadsheet Data Development:
 
@@ -150,6 +150,17 @@ will be used to drive better business decisions to determine needs regarding wea
   city to help deal with ineqality.*
 
   <img width="1014" height="270" alt="Seach Filter in AC Inequality Dashboard" src="https://github.com/user-attachments/assets/d6ecb1f0-a524-49c1-bc77-77399b8d716b" />
+
+
+
+### Presentation
+
+
+This penultimate step will take everything we have done to finally present the data in a sample and effecive presentation.
+Since I have orignally created the Avalon City Wealth Inequality data spreadsheet with Mac Numbers, I need to develop a
+keynote presentation about the data findings. Becasue we need convey what the data is telling us in a simple and palletable
+way for everyone (e.g. government entieties, stakeholders etc.) to interpret. 
+
 
 
   
