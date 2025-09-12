@@ -156,7 +156,7 @@ will be used to drive better business decisions to determine needs regarding wea
 ### Presentation
 
 
-This penultimate step will take everything we have done to finally present the data in a sample and effecive presentation.
+  This penultimate step will take everything we have done to finally present the data in a sample and effecive presentation.
 Since I have orignally created the Avalon City Wealth Inequality data spreadsheet with Mac Numbers, I need to develop a
 keynote presentation about the data findings. Becasue we need convey what the data is telling us in a simple and palletable
 way for everyone (e.g. government entieties, stakeholders etc.) to interpret. 
@@ -174,11 +174,38 @@ and decifer what the data is reporting without bias.
 
 ### Final Presentaion & Analysis
 
-The last step is to convert the Mac Keynote file into a Microsoft PowerPoint presenation file. Like the Numbers to Excel
+  The last step is to convert the Mac Keynote file into a Microsoft PowerPoint presenation file. Like the Numbers to Excel
 conversion, this final conversion is to make it easier for any stakeholder or vested person to access the Data Analysis
 in an easy to understand medium. Which in turn, the stakeholder can draw their own conlcusions and develop a good strategy
 to mitigate wealth inequality within Avalon city.
 
 
+  The main points the presentation depcits are defined by the following points:
 
-  
+  - the 3 districts with the biggest gaps in terms of wealth inequality are; North Avalon (at a Gini Coef. Score of 42.5),
+    Avalon City Centre (at 40.2) and lastly Trasselgar (at 38.9)
+
+  - Residences that live in Haarvos, North Avalon & Zarvos have the lowest HDI scores due to their low levels of economic
+    output and higher poverty rates.
+
+  - Zarvos, Haarvos and North Avalon account for the highest proportion of residences using governmental assistance towards
+    living.
+    
+  <img width="794" height="673" alt="inequality allocation" src="https://github.com/user-attachments/assets/b9cdf1c2-69a6-4451-be5e-802ea55e6b1a" />
+
+  - Out of the 2 highest and the 2 lowest Gini Coefficient of each district, North Avalon & Avalon City Centre need the
+    most action towards reducing wealth inequality. Whereas, the districts of Ridge & Haarvos are of least concern for the
+    time being. 
+
+
+
+
+
+
+
+
+
+
+
+    
+
