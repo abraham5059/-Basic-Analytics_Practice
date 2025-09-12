@@ -163,4 +163,22 @@ way for everyone (e.g. government entieties, stakeholders etc.) to interpret.
 
 
 
+<img width="1900" height="900" alt="ACWI_WIP" src="https://github.com/user-attachments/assets/3ffd91e7-de53-480b-92ff-c6b889422ed6" />
+
+
+During the keynote development, I simply used the existing Tableau Public data visualizations I've aready used to tell the
+data's story. I incorporated many aspects of the visulizations I've done along with taking it upon myself to deliver 
+other valuable insights for complete analysis. After creating the Mac Keynote presenation I can already draw main conclusions 
+and decifer what the data is reporting without bias. 
+
+
+### Final Presentaion & Analysis
+
+The last step is to convert the Mac Keynote file into a Microsoft PowerPoint presenation file. Like the Numbers to Excel
+conversion, this final conversion is to make it easier for any stakeholder or vested person to access the Data Analysis
+in an easy to understand medium. Which in turn, the stakeholder can draw their own conlcusions and develop a good strategy
+to mitigate wealth inequality within Avalon city.
+
+
+
   
