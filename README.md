@@ -153,7 +153,7 @@ will be used to drive better business decisions to determine needs regarding wea
 
 
 
-### Presentation
+### Presentation:
 
 
   This penultimate step will take everything we have done to finally present the data in a sample and effecive presentation.
@@ -172,7 +172,7 @@ other valuable insights for complete analysis. After creating the Mac Keynote pr
 and decifer what the data is reporting without bias. 
 
 
-### Final Presentaion & Analysis
+### Final Presentaion & Analysis:
 
   The last step is to convert the Mac Keynote file into a Microsoft PowerPoint presenation file. Like the Numbers to Excel
 conversion, this final conversion is to make it easier for any stakeholder or vested person to access the Data Analysis
@@ -197,11 +197,27 @@ to mitigate wealth inequality within Avalon city.
     most action towards reducing wealth inequality. Whereas, the districts of Ridge & Haarvos are of least concern for the
     time being. 
 
+  - Addressing data preconceptions such as, GDP correlates towards wealth inequality
+    *( in this particular case, he data shows while districts like Haarvos has low GDP, Its Gini Coefficent is actually
+    pretty equal at 28.90. This is because most people living and working within the same income levels while having little
+    or no major properties or economic disparity. The opposite is true when some districts with the high GDP have the
+    highest levels of wealth inequality because the way of life of some citizens are far outpaced by multi-million ₳ revenue
+    generating businesses and properties.)*
+
+  - despite Avalon City Centre and Trasselgar having the highest GDP’s in the city, they also have a high disproportion of
+    wealth and need to allocate government resources to address the issue for lower income residents.
+
+  - North Avalon, Alvalon City Centre & Trasselgar are the 3 main districts that need most attention towards.
 
 
 
 
+### Conclusion:
 
+Using simple data tools and applying effective data analysis can be used to help stakeholders strategize a project to develop 
+plans for mitigating wealth inequality within the city. 
+
+### thank you
 
 
 
